@@ -9,7 +9,6 @@ import Hero from "@/components/Hero";
 import Navbar from "@/components/Navbar";
 import Partner from "@/components/Partner";
 import Team from "@/components/Team";
-import Image from "next/image";
 
 export default function Home() {
   return (
